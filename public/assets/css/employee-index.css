@@ -1,0 +1,28 @@
+
+
+.raw {
+    margin:50px;
+    display: flex;
+    flex-direction:row;
+  }
+  
+  .alignment {
+    flex: 1 1 0px;
+  }
+.addnew{
+    float:right;
+    margin:5px;
+}
+.addnew a{
+    color:white;
+    text-decoration: none;
+}
+.addnew a:hover{
+    color:white;
+}
+h3{
+    text-align: center;
+}
+.validation{
+    color:red;
+}
